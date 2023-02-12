@@ -61,3 +61,7 @@ textarea {
 .wrapper {
   text-align: center;
 }
+
+hr.divider {
+  height: 12px;
+}
