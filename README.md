@@ -9,6 +9,7 @@ The deployed application may be accessed [here](https://pilotguide9897.github.io
 ## Screenshots
 ![Login](https://github.com/Pilotguide9897/TimeKeeper_Calendars/blob/main/Assets/AppScreenshots/Screenshot%202023-02-12%20at%207.27.16%20PM.png)
 ![Login](https://github.com/Pilotguide9897/TimeKeeper_Calendars/blob/main/Assets/AppScreenshots/Screenshot%202023-02-13%20at%2010.32.58%20AM.png)
+![Login](https://github.com/Pilotguide9897/TimeKeeper_Calendars/blob/main/Assets/Screenshot%202023-02-13%20at%2012.34.00%20PM.png)
 
 ## Installation
 
